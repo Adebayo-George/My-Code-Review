@@ -1,0 +1,22 @@
+body {
+  background-color: brown;
+}
+
+.header-one {
+  color: white;
+  font-family: 'Crete Round', sans-serif;
+  font-size: 25px;
+}
+
+.form-content .box-one {
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+}
+
+.submit-button {
+  background-color: blue;
+  color: #f4f1f0;
+  padding: 5px;
+  border-radius: 5px;
+}
